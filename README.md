@@ -1,1 +1,1 @@
-Mening birinchi repositoryim
+**Mening birinchi repositoryim**
